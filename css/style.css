@@ -1,11 +1,8 @@
 body{
-    background-image:url("./../assets/images/bgdurga.jpg");
+    background-image:url('./../assets/images/bgfarm.jpg');
     background-size:cover;
 }
-.audio{
-    margin-left:550px;
-  padding:20px
-}
+
 .imgdurga{
     margin-top:20px;
     height:300px;
@@ -42,7 +39,7 @@ body{
 }
 .shlok{
     font-size:35px;
-    color:red;
+    color:black;
     display:flex;
     justify-content:center;
 }
